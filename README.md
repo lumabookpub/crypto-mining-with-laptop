@@ -1,4 +1,4 @@
-# crypto-mining-with-laptop
+# Crypto Mining with Laptop or Desktop in 2021 - Beginners Tutorial
 
 A github with detailed instructions for people who want to start mining with laptop or desktop in 2021. You can mine many different crypto coins like Solana, Ethereum, Bitcoin, Shiba Inu, Tron, Cardano, Matic, Cake Pancakeswap, Binance BNB and many more ...
 
