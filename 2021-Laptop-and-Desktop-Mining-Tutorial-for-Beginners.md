@@ -7,7 +7,9 @@ A github with detailed instructions for people who want to start mining with lap
 
 Even though this guide is designed for people mining crypto with laptops, **the methodology and software can also be used to mine on Desktop computers** under Windows, Linux and Mac.
 
-if you run into any trouble I'm available to help in this discord channel I've created for you: https://discord.gg/sPbV8kcK
+*If you are having any difficulties, please join me on telegram so I can help you further*
+
+https://t.me/cryptominingadvisor
 
 ---
 
@@ -112,9 +114,9 @@ After doing this you will see the balance on your account and you will even be a
 
 ---
 
-*If you are having any difficulties, please join me on discord so I can help you further*
+I'm available to help with the setup and optimizations via telegram: https://t.me/cryptominingadvisor
 
-https://discord.gg/sPbV8kcK
+
 
 ---
 
